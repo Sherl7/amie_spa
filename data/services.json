@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "category": "Amie Skincare",
+      "name": "Amie relax — Massage thư giãn",
+      "duration": "30–40 phút",
+      "price": "180000đ",
+      "price_numeric": 180000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Nano HA",
+      "duration": "—",
+      "price": "240000đ",
+      "price_numeric": 240000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Nano B5",
+      "duration": "—",
+      "price": "490000đ",
+      "price_numeric": 490000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Nano Acnes",
+      "duration": "—",
+      "price": "450000đ",
+      "price_numeric": 450000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Nano vitamin C",
+      "duration": "—",
+      "price": "550000đ",
+      "price_numeric": 550000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Nano whitening",
+      "duration": "—",
+      "price": "680000đ",
+      "price_numeric": 680000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Mụn cơ bản",
+      "duration": "—",
+      "price": "880000đ",
+      "price_numeric": 880000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Mụn chuyên sâu",
+      "duration": "—",
+      "price": "350000đ",
+      "price_numeric": 350000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Phục hồi da hư tổn",
+      "duration": "—",
+      "price": "350000đ",
+      "price_numeric": 350000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Mụn lưng (nữ)",
+      "duration": "—",
+      "price": "380000đ",
+      "price_numeric": 380000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Detox skin",
+      "duration": "—",
+      "price": "380000đ",
+      "price_numeric": 380000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Detox CO2",
+      "duration": "—",
+      "price": "350000đ",
+      "price_numeric": 350000
+    },
+    {
+      "category": "Amie Skincare",
+      "name": "Detox CO2 Nano skin",
+      "duration": "—",
+      "price": "490000đ",
+      "price_numeric": 490000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Tảo Christina",
+      "duration": "—",
+      "price": "650000đ",
+      "price_numeric": 650000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Glass Skin",
+      "duration": "—",
+      "price": "580000đ",
+      "price_numeric": 580000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Acnes cấp I",
+      "duration": "—",
+      "price": "680000đ",
+      "price_numeric": 680000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Acnes cấp II",
+      "duration": "—",
+      "price": "790000đ",
+      "price_numeric": 790000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Acnes cấp III",
+      "duration": "—",
+      "price": "890000đ",
+      "price_numeric": 890000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel White Lightning",
+      "duration": "—",
+      "price": "980000đ",
+      "price_numeric": 980000
+    },
+    {
+      "category": "Amie Chemical Peel",
+      "name": "Peel Lưng",
+      "duration": "—",
+      "price": "1.150000đ",
+      "price_numeric": 1150000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Khử thâm môi",
+      "duration": "—",
+      "price": "1.500000đ",
+      "price_numeric": 1500000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Phun môi",
+      "duration": "—",
+      "price": "1.800000đ",
+      "price_numeric": 1800000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Combo phun môi + khử thâm",
+      "duration": "—",
+      "price": "2.500000đ",
+      "price_numeric": 2500000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Phun Shading",
+      "duration": "—",
+      "price": "1.800000đ",
+      "price_numeric": 1800000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Hairstroke + Shading",
+      "duration": "—",
+      "price": "2.000000đ",
+      "price_numeric": 2000000
+    },
+    {
+      "category": "Amie Brows",
+      "name": "Hairstroke nữ/nam",
+      "duration": "—",
+      "price": "2500/3000000đ",
+      "price_numeric": ""
+    }
+  ]
+}
